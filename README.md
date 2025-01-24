@@ -1,4 +1,14 @@
+# Demo in drive
 
+`https://drive.google.com/drive/folders/1Cv9PckHmCjDsLdWoL9Tr-UvHvclhiK9I?usp=drive_link`
+
+## Video Demos
+
+Here are two video demos to help you get started:
+
+- [Instruction Video 1](Instructionvid/1.mov): A comprehensive guide to setting up your environment.
+- [Instruction Video 2](Instructionvid/2.mov): Step-by-step instructions on training your first model.
+  
 # Repo Analyzer
 
 This project provides tools for cloning GitHub repositories and analyzing their complexity. It includes functionalities for extracting complex functions and creating prompts for AI-based analysis.
@@ -60,12 +70,6 @@ pip install gitpython radon
 7. **Exit**:
    - Choose option 7 to exit the program.
 
-## Video Demos
-
-Here are two video demos to help you get started:
-
-- [Instruction Video 1](Instructionvid/1.mov): A comprehensive guide to setting up your environment.
-- [Instruction Video 2](Instructionvid/2.mov): Step-by-step instructions on training your first model.
 
 ## Example Commands
 
