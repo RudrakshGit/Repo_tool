@@ -6,8 +6,8 @@
 
 Here are two video demos to help you get started:
 
-- [Instruction Video 1](Instructionvid/1.mov): A comprehensive guide to setting up your environment.
-- [Instruction Video 2](Instructionvid/2.mov): Step-by-step instructions on training your first model.
+- [Instruction Video 1](Instructionvid/1.mov)
+- [Instruction Video 2](Instructionvid/2.mov)
   
 # Repo Analyzer
 
